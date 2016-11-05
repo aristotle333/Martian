@@ -1,0 +1,47 @@
+Mars environment taken from:
+https://www.assetstore.unity3d.com/en/#!/content/42564
+
+Sound effects (changing room and oxygen) taken from:
+http://soundbible.com/tags-time-travel.html
+
+Text engine sound effect taken from:
+http://www.audiomicro.com/free-science-fiction-sci-fi-sound-effects
+
+Introduction screen soundtrack (Time from Inception) taken from:
+https://www.youtube.com/watch?v=srrAm9Eiqcw 
+
+Sound effects for Box fading in and out taken from:
+https://www.youtube.com/watch?v=x1JkUAvMIJI
+
+Teleport Sound when touching portal
+https://freesound.org/data/previews/128/128590_7037-lq.mp3 
+
+Music in maze is movie soundtrack from Gone Girl, taken from:
+https://www.youtube.com/watch?v=p4wSJMorYK8 
+
+Metalic Materials used for the signal tower and the maze, take from:
+https://www.assetstore.unity3d.com/en/#!/content/12949
+
+Customized Teleport, take from:
+https://www.assetstore.unity3d.com/cn/#!/content/20098
+
+Oxygen Tank, taken from:
+https://www.assetstore.unity3d.com/cn/#!/content/19738
+
+Base, taken from:
+https://www.assetstore.unity3d.com/cn/#!/content/54491
+
+Enemy Prefab:
+https://www.assetstore.unity3d.com/cn/#!/content/40756
+
+Materials used for the puzzle rooms, taken from: 
+https://www.assetstore.unity3d.com/en/#!/content/34607
+
+Laser sound and item pickup sound taken from:
+https://www.assetstore.unity3d.com/en/#!/content/15966
+
+Pistol textures and model taken from:
+https://www.assetstore.unity3d.com/en/#!/content/41327
+
+Laser beam prefab from:
+https://www.assetstore.unity3d.com/en/#!/content/29160
